@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: ann.korep@gmail.com
     phone: +7 911 932 75 87 
-    website:  #do not add http://
+    website:  www.upwork.com/o/profiles/users/_~01c3d661f6474e5d91/ #do not add http://
     linkedin: 
     github: annistone
     gitlab:
@@ -49,76 +49,58 @@ career-profile:
       Now I keep looking for my "dream work". I feel interested in more material world oriented projects.
     
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Robotics and Mechatronics 
+      university: Saint Petersburg State Polytechnical University 
+      time: 2011 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        It was great programm filled with practices which are actual in real industry. I'm experienced in 
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - AutoCad, Kompas
+          - Keil uVision, Altium Designer
+          - MathCad
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Developer
+      time: 2018 - Present
+      company: PLAYTIME LLC, remote
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Game logic, interfaces, engine development. Genre is citybuilder with farm mechanics and session pvp battles. 
+        I introduced some best practices in architecture and initiated some big refactorings. 
+        In this way I turned mvp stage game into flexible scalable condition.    
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - ES6, webpack, jsdoc, pixi.js, inferno.js
+          
+    - role: Freelancer
+      time: 2016 - 2017
+      company: mostly Upwork, remote
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+       Recent projects: 
+       1. HTML5 games.
+       For different purposes I developed several HTML5 games: arcanoid, froggy, top-down shooter, words printing game, flappy bird. 
 
-          - Bullet point
-          - Bullet point
+          - Phaser game engine
+          
+       2. Shooting gallery software.
+       Shots detecting software, hardware refinement, web app with session statistics.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - esp8266
+          - ArduinoC, Golang, React, Redux
 
-          - Bullet point
-          - Bullet point
+       3. Race timing system.
+       Timekeeping system's hardware and software for slalom skating trainings and competitions, web app with races results.
+       Practiced a lot tracing and soldering circuits, working with electronic components.
 
+          - arduino Pro Mini, esp8266
+          - ArduinoC, Golang, React, Redux
+          - easyEDA
+          
+       4. Ping-pong in tm4c123 tiva
+       Main difficulty was in searching and analisys of LCD documentation and connecting all its 43 pins to board. 
+
+          - tm4c123 tiva
+          - Keil uVision.
+
+    
 projects:
     title: Projects
     intro: >

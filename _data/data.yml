@@ -75,18 +75,19 @@ experiences:
       company: mostly Upwork, remote
       details: |
        Recent projects: 
-       1. HTML5 games.
+       
+       HTML5 games.
        For different purposes I developed several HTML5 games: arcanoid, froggy, top-down shooter, words printing game, flappy bird. 
 
           - Phaser game engine
           
-       2. Shooting gallery software.
+       Shooting gallery software.
        Shots detecting software, hardware refinement, web app with session statistics.
 
           - esp8266
           - ArduinoC, Golang, React, Redux
 
-       3. Race timing system.
+       Race timing system.
        Timekeeping system's hardware and software for slalom skating trainings and competitions, web app with races results.
        Practiced a lot tracing and soldering circuits, working with electronic components.
 
@@ -94,7 +95,7 @@ experiences:
           - ArduinoC, Golang, React, Redux
           - easyEDA
           
-       4. Ping-pong in tm4c123 tiva
+       Ping-pong in tm4c123 tiva
        Main difficulty was in searching and analisys of LCD documentation and connecting all its 43 pins to board. 
 
           - tm4c123 tiva

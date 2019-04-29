@@ -38,9 +38,6 @@ sidebar:
       - item: Paragliding
         link:
 
-      - item: Kiting
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -78,18 +75,18 @@ experiences:
       details: |
        Recent projects: 
        
-       --HTML5 games.
+       -1. HTML5 games.
        For different purposes I developed several HTML5 games: arkanoid, froggy, top-down shooter, words printing game, flappy bird. 
 
           - Phaser game engine
           
-       --Shooting gallery software.
+       -2. Shooting gallery software.
        Shots detecting software, hardware refinement, web app with session statistics.
 
           - esp8266
           - ArduinoC, Golang, React, Redux
 
-       --Race timing system.
+       -3. Race timing system.
        Timekeeping system hardware and software for slalom skateboarding trainings and competitions, web app with races results.
        I practiced a lot tracing and soldering circuits, work with electronic components.
 
@@ -97,7 +94,7 @@ experiences:
           - ArduinoC, Golang, React, Redux
           - easyEDA
           
-       --Ping-pong in tm4c123 tiva
+       -4. Ping-pong in tm4c123 tiva
        Main difficulty was in searching and analysis of LCD documentation and connecting all its 43 pins to board. 
 
           - tm4c123 tiva

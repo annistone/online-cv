@@ -140,9 +140,12 @@ skills:
       - name: Golang
         level: 80%        
 
+       - name: Elm
+        level: 50%
+
       - name: C/C++
         level: 40%
-
+      
       - name: Electronics
         level: 40%
 

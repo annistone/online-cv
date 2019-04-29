@@ -140,7 +140,7 @@ skills:
       - name: Golang
         level: 80%        
 
-       - name: Elm
+      - name: Elm
         level: 50%
 
       - name: C/C++

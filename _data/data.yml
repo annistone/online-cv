@@ -44,7 +44,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm freelance programmer. Started my career in artistic fields I gradually moved to more tech works. Using my university knowlages and self-studing I got practiced from cources and participment in different indy projects in electronics, games and web apps development, eventually started to do commercial works. 
+      I'm freelance programmer. 
+      Started my career in artistic fields I gradually moved to more tech works.  
+      Using my university knowledge and self-studying I got practiced from online courses and participation in different indie projects in electronics, games and web apps development, eventually started to do commercial works. 
       
       Now I keep looking for my "dream work". I feel interested in more material world oriented projects.
     
@@ -53,7 +55,7 @@ education:
       university: Saint Petersburg State Polytechnical University 
       time: 2011 - 2016
       details: |
-        It was great programm filled with practices which are actual in real industry. I'm experienced in 
+        It was great programm filled with practices which are actual in real industry. I got experience in: 
 
           - AutoCad, Kompas
           - Keil uVision, Altium Designer
@@ -64,7 +66,7 @@ experiences:
       time: 2018 - Present
       company: PLAYTIME LLC, remote
       details: |
-        Game logic, interfaces, engine development. Genre is citybuilder with farm mechanics and session pvp battles. 
+        Game logic, interfaces, engine development. Genre is city builder with farm mechanics and session pvp battles. 
         I introduced some best practices in architecture and initiated some big refactorings. 
         In this way I turned mvp stage game into flexible scalable condition.    
 
@@ -77,29 +79,29 @@ experiences:
        Recent projects: 
        
        --HTML5 games.
-       For different purposes I developed several HTML5 games: arcanoid, froggy, top-down shooter, words printing game, flappy bird. 
+       For different purposes I developed several HTML5 games: arkanoid, froggy, top-down shooter, words printing game, flappy bird. 
 
           - Phaser game engine
           
-       Shooting gallery software.
+       --Shooting gallery software.
        Shots detecting software, hardware refinement, web app with session statistics.
 
           - esp8266
           - ArduinoC, Golang, React, Redux
 
-       Race timing system.
-       Timekeeping system's hardware and software for slalom skating trainings and competitions, web app with races results.
-       Practiced a lot tracing and soldering circuits, working with electronic components.
+       --Race timing system.
+       Timekeeping system hardware and software for slalom skateboarding trainings and competitions, web app with races results.
+       I practiced a lot tracing and soldering circuits, work with electronic components.
 
           - arduino Pro Mini, esp8266
           - ArduinoC, Golang, React, Redux
           - easyEDA
           
-       Ping-pong in tm4c123 tiva
-       Main difficulty was in searching and analisys of LCD documentation and connecting all its 43 pins to board. 
+       --Ping-pong in tm4c123 tiva
+       Main difficulty was in searching and analysis of LCD documentation and connecting all its 43 pins to board. 
 
           - tm4c123 tiva
-          - Keil uVision.
+          - Keil uVision
 
     
 projects:
@@ -113,8 +115,8 @@ projects:
         tagline: "Range datepicker ui component written in Elm."
 
       - title: Ray tracing 
-        link: "https://github.com/elm-community/elm-datepicker/pull/66"
-        tagline: "Ray tracing progect written in OpenGL."
+        link: "https://www.shadertoy.com/view/MtBcWd"
+        tagline: "Ray tracing project written in OpenGL."
 
  
 # publications:
@@ -142,7 +144,7 @@ skills:
 
     toolset:
       - name: Javascript
-        level: 80%
+        level: 95%
         
       - name: Golang
         level: 80%        

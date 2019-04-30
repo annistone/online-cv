@@ -135,15 +135,15 @@ skills:
 
     toolset:
       - name: Javascript
-        level: 95%
+        level: 90%
         
       - name: Golang
-        level: 80%        
+        level: 70%        
 
       - name: Elm
         level: 50%
 
-      - name: C/C++
+      - name: C
         level: 40%
       
       - name: Electronics

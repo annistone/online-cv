@@ -8,18 +8,18 @@ sidebar:
 
     # Profile information
     name: Anna Korepanova
-    tagline: Programmer
+    tagline: Embedded developer
     avatar: profile1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: ann.korep@gmail.com
     phone: +7 911 932 75 87 
-    website:  www.upwork.com/o/profiles/users/_~01c3d661f6474e5d91/ #do not add http://
+    website:  #do not add http://
     linkedin: 
     github: annistone
     gitlab:
     bitbucket:
-    twitter: '@AnnKorepanova1'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,17 +35,19 @@ sidebar:
         level: Elementary
 
     interests:
-      - item: Paragliding
+      - item: extreme sports
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I'm freelance programmer. 
-      Started my career in artistic fields I gradually moved to more tech works.  
-      Using my university knowledge and self-studying I got practiced from online courses and participation in different indie projects in electronics, games and web apps development, eventually started to do commercial works. 
+      Hello! I'm junior/middle embedded programmer. I've learned robotics speciality in universirty. | 
+      Then devoted myself for doing games as an artist and as programmer for several years. And after all returned to embedded development. |
+      So I have quite diverse development experience. However after working at different spheres I've got strong skills at setting and reaching the goals.
       
-      Now I keep looking for my "dream work". I feel interested in more material world oriented projects.
+      At my last job I've acquired a lot of skilles: mcu programming, interfaces, mcu and fpga interconnection in soc, schematics development, rtos.
+      Current job is really interesting for me and I'm looking forward for master it more. And I'm always enthusiastic at learning new technology. 
+      Besides embedded systems I'm interested at robotics and AI, and think that my further career will be related with it. 
     
 education:
     - degree: BSc in Robotics and Mechatronics 
@@ -53,14 +55,26 @@ education:
       time: 2011 - 2016
       details: |
         It was great programm filled with practices which are actual in real industry. I got experience in: 
-
+        
           - AutoCad, Kompas
           - Keil uVision, Altium Designer
           - MathCad
 
 experiences:
+    - role: Embedded C/C++ programmer
+      time: July 2019 - Present
+      company: the Laboratory of Industrial Systems for Streaming Data Processing of the SPbPU National Technology Initiative Center for Advanced Manufacturing Technologies
+      details: |
+        Worked at several projects like device for determination of bitumen adhesion, autonomus car model and mcu intercommunication with fpga in soc for industrial communication systems.    
+
+          - C/C++, Python, qt
+          - STM32f1, STM32f3, ESP32
+          - FreeRTOS, ROS
+          - UART, I2C, I2S, SPI, DMA
+          - Grafana, IndexDB, Docker, Docker-compose
+          
     - role: Developer
-      time: 2018 - Present
+      time: 2018 - June 2019
       company: PLAYTIME LLC, remote
       details: |
         Game logic, interfaces, engine development. Genre is city builder with farm mechanics and session pvp battles. 
@@ -90,7 +104,7 @@ experiences:
 
        - Phaser game engine
        - esp8266, tm4c123 tiva, arduino Pro Mini
-       - ArduinoC, Golang, React, Redux
+       - C lang, Golang, React, Redux
        - easyEDA, Keil uVision
 
 
@@ -134,20 +148,27 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Javascript
-        level: 80%
-        
-      - name: Golang
-        level: 50%        
 
-      - name: Elm
-        level: 50%
+      - name: STM32
+        level: 70%  
 
       - name: C
-        level: 40%
+        level: 80%
       
-      - name: Electronics
+      - name: C++
         level: 40%
+        
+      - name: FreeRTOS
+        level: 60%
+        
+      - name: Docker
+        level: 40%
+       
+      - name: ROS
+        level: 40%
+        
+      - name: Python
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

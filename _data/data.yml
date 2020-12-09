@@ -155,20 +155,17 @@ skills:
       - name: C
         level: 80%
       
-      - name: C++
-        level: 40%
-        
       - name: FreeRTOS
         level: 60%
         
-      - name: Docker
-        level: 40%
-       
-      - name: ROS
-        level: 40%
-        
       - name: Python
         level: 50%
+       
+      - name: Docker
+        level: 30%
+       
+      - name: ROS
+        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
